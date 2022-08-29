@@ -1,0 +1,1 @@
+{"id":"5967d026-c957-425e-b64a-fc32aecb0b3e","space":29981,"runtime":"python3.9","name":"fast_api_server","path":"pje5ms","project":"c0jyilh4","account":"144798365827","region":"ap-southeast-1","deps":["fastapi"],"envs":null,"public":true,"log_level":"off","cron":""}
